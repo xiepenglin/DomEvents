@@ -1,2 +1,3 @@
-# drag
-drag, mouse event test
+# dom events
+drag, mouse event
+key event
